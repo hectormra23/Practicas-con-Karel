@@ -1,0 +1,20 @@
+iniciar-programa
+    inicia-ejecucion
+
+
+      repetir 10 veces
+      inicio
+
+    avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+      avanza;
+      coge-zumbador;
+      gira-izquierda;
+
+
+            fin;
+         gira-izquierda;   gira-izquierda;
+
+        apagate;
+    termina-ejecucion
+finalizar-programa

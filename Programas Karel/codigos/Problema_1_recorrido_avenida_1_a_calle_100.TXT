@@ -1,0 +1,10 @@
+iniciar-programa
+    inicia-ejecucion
+    repetir 99 veces
+    inicio
+
+     avanza;
+         fin ;
+        apagate;
+    termina-ejecucion
+finalizar-programa

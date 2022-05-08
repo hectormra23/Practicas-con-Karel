@@ -1,0 +1,48 @@
+iniciar-programa
+    inicia-ejecucion
+
+
+    avanza;avanza;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda;
+    avanza;avanza;
+    gira-izquierda;  gira-izquierda;  gira-izquierda;
+    avanza;avanza;
+    gira-izquierda;
+    avanza;
+    gira-izquierda;  gira-izquierda;  gira-izquierda;
+
+     repetir 4 veces
+     inicio
+         avanza;
+     fin;
+
+     gira-izquierda; gira-izquierda;gira-izquierda;
+      repetir 5 veces
+     inicio
+         avanza;
+     fin;
+
+      gira-izquierda;    gira-izquierda;   gira-izquierda;
+
+      avanza;avanza;     gira-izquierda; avanza;      gira-izquierda;
+
+       gira-izquierda;  gira-izquierda;
+
+          repetir 5 veces
+     inicio
+         avanza;
+     fin;
+
+        gira-izquierda; gira-izquierda; gira-izquierda;
+
+
+
+
+
+
+
+        apagate;
+    termina-ejecucion
+finalizar-programa

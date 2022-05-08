@@ -1,0 +1,49 @@
+iniciar-programa
+    inicia-ejecucion
+    repetir 10 veces
+    inicio
+    avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda;
+    fin;
+
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda;avanza;gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;avanza;
+    gira-izquierda;avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda; gira-izquierda; gira-izquierda;
+
+    repetir 21 veces
+    inicio
+    avanza;
+    fin;
+
+    gira-izquierda; gira-izquierda;gira-izquierda;avanza;
+
+
+
+    apagate;
+    termina-ejecucion
+finalizar-programa

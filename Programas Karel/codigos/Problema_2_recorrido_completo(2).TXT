@@ -1,0 +1,28 @@
+iniciar-programa
+    inicia-ejecucion
+      repetir 4 veces
+      inicio
+      repetir 8 veces
+      inicio
+          avanza;
+      fin;
+
+      repetir 3 veces
+      inicio
+
+          gira-izquierda;
+      fin;
+      fin;
+
+
+
+
+
+
+
+
+
+
+           apagate;
+    termina-ejecucion
+finalizar-programa

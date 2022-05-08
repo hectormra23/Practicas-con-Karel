@@ -1,0 +1,23 @@
+iniciar-programa
+    inicia-ejecucion
+    repetir 10 veces
+    inicio
+    avanza;
+    gira-izquierda;gira-izquierda;gira-izquierda;
+    avanza;
+    gira-izquierda;
+    fin;
+
+   repetir 10 veces
+   inicio
+
+gira-izquierda;gira-izquierda;gira-izquierda;
+avanza;
+gira-izquierda;gira-izquierda;gira-izquierda;
+avanza;
+ gira-izquierda;
+ fin;
+
+    apagate;
+    termina-ejecucion
+finalizar-programa
